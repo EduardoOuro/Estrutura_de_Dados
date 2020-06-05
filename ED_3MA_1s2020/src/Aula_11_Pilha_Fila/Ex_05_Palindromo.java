@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package aula_11_Pilha_Fila;
+package Aula_11_Pilha_Fila;
 
-import aula_10_Pilha.Pilha;
+import Aula_10_Pilha.Pilha;
 import java.util.Scanner;
 
 /**

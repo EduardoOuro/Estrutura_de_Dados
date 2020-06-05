@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package aula_10_Pilha;
+package Aula_10_Pilha;
 
 import java.util.Scanner;
 
